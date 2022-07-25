@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" parent="Theme.AppCompat.Light.DarkActionBar">Scholarship</string>
+    <array name="course">
+        <item>English</item>
+        <item>Kannada</item>
+        <item>Hindi</item>
+    </array>
+    <array name="courseType">
+        <item>Select courseType:</item>
+        <item>Engineering</item>
+        <item>Diploma</item>
+
+    </array>
+    <array name="day">
+        <item>Select Hosteller or Day Scholar:</item>
+        <item>Hosteller</item>
+        <item>Day Scholar</item>
+
+    </array>
+    <array name="ren">
+        <item>Renewal or Fresh</item>
+        <item>Renewal</item>
+        <item>Fresh</item>
+
+    </array>
+</resources>
